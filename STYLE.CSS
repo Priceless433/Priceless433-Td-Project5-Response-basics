@@ -1,0 +1,50 @@
+*{
+    font-size: large;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    padding: 10px;
+    margin: 0px;
+    border: 10px;
+    margin-left: 10px;
+}
+header{
+    font-size: 70px;
+    background-color: aqua;
+    padding: 3px;
+    margin:10px;
+    border: 10px;
+    margin-left: 0px;
+}
+.logo {
+    width: 50px; 
+    height: auto;
+    margin-right: 15px;
+}
+nav{
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+div.container_item{
+    display:flex;
+    justify-content: space-between;
+    margin-right: 0px;
+    margin-left: 0px;
+    justify-items: 0pxPX;
+    margin-top: 15px;
+}
+
+
+  
+@media screen { min-width: 768px;
+    
+}
+@media screen {min-width: 600px ;
+    
+}
+@media screen {
+    
+}
